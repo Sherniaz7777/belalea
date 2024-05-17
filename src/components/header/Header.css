@@ -1,0 +1,162 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 69px 0px 30px;
+}
+.logotip-menu{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.menu-header{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-left: -40px;
+}
+.menu-header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+.search-contact{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    padding-right: 15px;
+}
+.contact-user{
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #274C5B;
+}
+
+.phone-number{
+    /* width: 180px; */
+    display: flex;
+    align-items: center;
+    padding: 5px 25px 5px 25px;
+    height: 66px;
+    gap: 15px;
+    border-radius: 33px;
+    border: 1px solid  #D8E1EC;
+}
+.phone-number p{
+    padding-top: 13px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.searchs{
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FAFAFA;
+    width: 226px;
+    /* border: 1px solid  #9c9a9a; */
+    border-radius: 33px;
+}
+.searchs input{
+    width: 200px;
+    height: 46px;
+    padding-left: 10px;
+    /* border: none; */
+    /* border-radius: 50%; */
+    border-radius: 12px;
+    outline: none;
+    /* background: none; */
+    /* margin-left: 10px; */
+}
+.search-icon{
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    margin-left: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7EB693;
+}
+.searchs form{
+    display: flex;
+    align-items: center;
+}
+.NavLinkHeader{
+    text-decoration: none;
+    background: none;
+}
+.NavLinkHeader{
+    text-decoration: none;
+    list-style: none;
+}
+.basket-number{
+    width: 30px;
+    height: 30px;
+    background-color: #1d1010;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-top: -18px;
+    margin-left: 18px;
+    color: white;
+}
+.Langugae{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.Langugae button{
+    border: 1px solid rgb(103, 101, 101);
+    padding: 4px;
+    border-radius: 5px;
+    outline: none;
+    background: none;
+}
+.Langugae button:hover{
+    background: rgb(67, 63, 63);
+    color: #D8E1EC;
+}
+.Langugae button.active{
+    background-color: red;
+    color: white;
+}
+#Sign{
+    /* width: 100px; */
+    height: 200px;
+    margin-top: 280px;
+    box-shadow: 0px 4px 80px 0px #05091614;
+    padding: 15px 20px;
+    border: 1px solid rgb(76, 73, 73);
+    border-radius: 12px;
+    margin-left: -67px;
+
+    background: #FAFAFA;
+    position: absolute;
+   
+}
+#Sign div{
+   font-size: 18px;
+   margin-bottom: 15px;
+   font-weight: 500;
+}
+#Sign button{
+    border: none;
+    background: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+#log:hover{
+    color: #7b7c7d;
+    background: #000000;
+}

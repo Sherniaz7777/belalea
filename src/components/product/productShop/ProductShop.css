@@ -1,0 +1,11 @@
+.product-shop{
+    width: 1400.36px;
+    margin: 0 auto;
+    padding: 0 auto;
+    padding: 90px 0px 137px 0px;
+}
+.ProductShop-Card{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}

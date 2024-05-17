@@ -1,0 +1,59 @@
+.ContactContent-1{
+    display: flex;
+    gap: 70px;
+    margin-top: 215px;
+    
+}
+#ContactCon-img{
+    border-radius: 18px;
+    width: 550px;
+}
+.logotip-contact{
+    display: flex;
+    gap: 15px;
+    margin-top: 34px;
+}
+.Contact-Points{
+    display: flex;
+    align-items: center;
+    gap: 19px;
+    width: 352px;
+    height: 113px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    margin-top: 24px;
+
+}
+.Contact-Points u{
+    font-size: 18px;
+    font-weight: 400;
+    color: #525C60;
+}
+.Contact-Points h3{
+    font-size: 25px;
+    font-weight: 800;
+    color: #274C5B;
+}
+.Contact-Points-img{
+    width: 89px;
+    height: 89px;
+    background-color: #F4F4F4;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+}
+.ContactContentin-2 p{
+      font-size: 18px;
+      font-weight: 400;
+      color: #525C60;
+      margin-top: 14px;
+}
+.ContactContentin-2 h1{
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+}

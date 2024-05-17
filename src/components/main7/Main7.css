@@ -1,0 +1,120 @@
+.Main7-hero-all{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.Main7-hero-1{
+    background-image: url("../../assets/Photo (1).png");
+    width: 631px;
+    height: 529px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.Main7-hero-2{
+    background-image: url("../../assets/Photo.png");
+    width: 631px;
+    height: 529px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+}
+.Main7-hero-1-in{
+    width: 82px;
+    height: 82px;
+    border-radius: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-top: 33px;
+   margin-left: 22px;
+    
+
+}
+.Main7-hero-1-in {
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+    color: #274C5B;
+}
+.Main7-hero-1-text{
+    padding: 46px 57px 60px 57px;
+    /* padding: 46px 0px; */
+    width: 550px;
+    border-radius: 31px 34px 30px 30px;
+    background-color: #FFFFFF;
+    margin-top: 180px;
+    box-shadow: 0px 20px 35px 0px #A7A7A740;
+
+}
+.Main7-hero-1-text h3{
+    font-weight: 800;
+    font-size: 20px;
+    color: #274C5B;
+}
+.Main7-hero-1-text p{
+    color: #525C60;
+    font-size: 18px;
+    font-weight:400;
+}
+.Main7-hero-1-text button{
+    padding: 28px 47px 29px 47px;
+    border-radius: 16px;
+    color: black;
+    background-color: #FFFFFF;
+    border: 1px solid  #525C60;
+    display: flex;
+    gap:  10px;
+}
+.Main7-hero-1-text button:hover{
+    background-color: #EFD372;
+    color: #274C5B;
+}
+.Main7-hero-1-text button:active{
+    background-color: #EFD372;
+    color: #274C5B;
+}
+.Main7-hero-1-text-all{
+    display: flex;
+    justify-content: center;
+}
+.Main7-Content{
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    height: 200px;
+    padding-bottom: 61px;
+    /* padding-top: 61px; */
+    margin-top: 71px;
+}
+.Main7-Content-1{
+    width: 752px;
+}
+.Main7-Content-1 h1{ 
+ font-weight: 500;
+ font-size: 48px;
+ color: #7EB693;
+}
+.Main7-Content-1 h2{
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+}
+.Main7-Content-2 button{
+    padding: 28px 45px 30px 46px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #274C5B;
+    background: none;
+    border: 2px solid #274C5B
+}
+.Main7-Content-2 button:hover{
+    background-color: #EFD372;
+}

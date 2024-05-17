@@ -1,0 +1,52 @@
+.Main5-hero{
+    display: flex;
+    justify-content: space-between;
+}
+.Main5-imgs{
+    background-image: url('../../assets/Image (13).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 1200px; */
+    width: 952px;
+    height: 931px;
+    /* position: absolute; */
+    margin-left: -120px;
+    
+    
+    
+}
+.Main5-Content-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -89px;
+
+}
+.Main5-Content{
+    padding: 78px 89px 134px ;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+.Main5-Content h2{
+    color: #7EB693;
+    font-size: 48px;
+    font-weight: 500;
+}
+.Main5-Content h1{
+    font-size: 40px;
+    color: #274C5B;
+    font-weight: 700;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+
+.Main5-Points-1 h4{
+    color: #274C5B;
+    font-size: 25px;
+    font-weight: 500;
+}
+.Main5-Points-1 p{
+    font-size: 18px;
+    color: #525C60;
+    font-weight: 400;
+}

@@ -1,0 +1,74 @@
+.BlogDetail-backr{
+     background-image: url("../../../assets/Photo (2).png");
+     height: 712px;
+     background-size: cover;
+     background-repeat: no-repeat;
+     /* padding-top: 710px; */
+}
+.BlogDetail-all{
+    padding-bottom: 220px;
+}
+.BlogDetail-all p{
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+}
+.BlogDetail-content h1{
+    color: #274C5B;
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.BlogDetail-content h5{
+    color: #274C5B;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.BlogDetail-content{
+    margin-top: -120px;
+    padding: 76px 82px 76px 82px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    box-shadow: 0px 14px 36px 0px #CCCCCC40;
+
+}
+.BlogDetail-content-2-all{
+    width: 976px;
+    margin: 0 auto;
+}
+.BlogDetail-content-2-all li{
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 24px;
+}
+.BlogDetail-content-2-all ul{
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 24px;
+}
+.BlogDetail-content-2-all h1{
+    font-size: 50px;
+    color: #274C5B;
+    font-weight: 800;
+}
+.BlogDetail-content-2-all h2{
+    font-size: 35px;
+    color: #274C5B;
+    font-weight: 800;
+    /* padding-bottom: 34px; */
+}
+.BlogDetail-content-3-in{
+    padding: 69px 59px 69px 59px;
+    background: #F1EDEA;
+    border-radius: 30px;
+    margin: 50px 0px;
+}
+.BlogDetail-content-3-in h4{
+    text-align: center;
+    color: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}

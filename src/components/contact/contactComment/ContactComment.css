@@ -1,0 +1,57 @@
+.contact-comment-in{
+    width: 1184px;
+    margin: 0 auto;
+    margin-bottom: 179px;
+}
+.Contact-inputs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.Contact-inputs input{
+    width: 569px;
+    height: 80px;
+    border-radius: 16px;
+    border: 1px solid #7EB693;
+    outline: none;
+    padding: 28px 23px 31px;
+}
+.Contact-inputs input::placeholder {
+    font-style: italic;
+    color: #ABABAB;
+    font-weight: 400;
+    font-size: 18px
+}
+.contact-comment-in label{
+    color: #274C5B;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 26px;
+    margin-top: 50px;
+}
+.contact-comment-in textarea{
+    width: 1184px;
+    height: 247px;
+    border-radius: 16px;
+    border: 1px solid #7EB693;
+    outline: none;
+    padding: 28px;
+    resize: none;
+}
+.contact-comment-in textarea::placeholder {
+    font-style: italic;
+    color: #ABABAB;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+.contact-comment-in button{
+    padding: 28px 47px 29px 47px;
+    background-color: #274C5B;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 60px;
+}

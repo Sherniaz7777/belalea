@@ -1,0 +1,12 @@
+.BlogHero{
+    background-image: url("../../../assets/Image (9).png");
+    height: 450px;
+    display: flex;
+    align-items: center;
+}
+.BlogHero h1{
+    font-size: 70px;
+    text-align: center;
+    color: #274C5B;
+    font-weight: 800;
+}

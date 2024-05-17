@@ -1,0 +1,92 @@
+.Home-About{
+    background-image: url('../../assets/image 16.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 1517px; */
+    /* margin: 0 auto; */
+    /* height: 1067px; */
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    justify-content: center;
+    
+    height: 1067px;
+
+}
+.Home-About-in{
+  width: 702px;
+  display: flex;
+  justify-content: center;
+ 
+  align-items: center;
+  
+
+  /* border: 1px solid red; */
+}
+.Home-About-in1{
+  display: flex;
+  justify-content: flex-end;
+}
+.Home-About-in h3{
+  font-size: 48px;
+  font-weight: 600;
+  color: #7EB693;
+}
+.Home-About-in h2{
+  font-weight: 800;
+  font-size: 50px;
+  color: #274C5B;
+}
+.Home-About-in p{
+  font-weight: 400;
+  font-size: 18px;
+  color: black;
+}
+.Home-Points{
+  display: flex;
+  gap: 19px;
+  align-items: center;
+  margin-top: 46px;
+}
+.Home-Points h4{
+  color: #274C5B;
+  font-weight: 700;
+  font-size: 24px;
+
+}
+.Home-Points h5{
+  font-size: 18px;
+  color: #525C60;
+  font-weight: 400;
+}
+.Home-Points-2{
+  display: flex;
+  gap: 19px;
+  align-items: center;
+  margin-top: 30px;
+}
+.Home-Points-2 h4{
+  color: #274C5B;
+  font-weight: 700;
+  font-size: 24px;
+
+}
+.Home-Points-2 h5{
+  font-size: 18px;
+  color: #525C60;
+  font-weight: 400;
+}
+.Home-About-in button{
+  margin-top: 46px;
+  padding: 28px 39px 28px 39px;
+  border-radius: 16px;
+  background-color: #274C5B;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 700;
+}
+.Home-About-in button:hover{
+  box-shadow: 0  16px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}

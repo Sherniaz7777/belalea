@@ -1,0 +1,50 @@
+.Banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 154px 0px 190px 0px;
+}
+
+.banner-1{
+    width: 635.24px;
+    background-image: url('../../assets/Photo.jpg');
+    background-size: cover;
+    height: 376px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 54.88px;
+}
+.banner-1 h3{
+    font-size: 48px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.banner-1 h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    font-weight: 800;
+}
+
+.banner-2 h3{
+    font-size: 48px;
+    font-weight: 500;
+    color: #7EB693;
+}
+.banner-2 h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: #274C5B;
+    font-weight: 800;
+}
+.banner-2{
+    width: 635.24px;
+    background-image: url('../../assets/Image.png');
+    background-size: cover;
+    height: 376px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 54.88px;
+}

@@ -1,0 +1,14 @@
+.ContactHero-all{
+    background-image: url("../../../assets/Background.jpg");
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+.ContactHero-all h1{
+    font-size: 70px;
+    text-align: center;
+    color: #274C5B;
+    font-weight: 800;
+}

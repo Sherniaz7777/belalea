@@ -1,0 +1,119 @@
+.Footer-top-all{
+    background-image: url("../../assets/Background.png");
+    height: 323px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 105px 71px;
+    
+}
+.Footer-top-1{
+    /* width: 424px; */
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 800;
+}
+.Footer-top-2 form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background: none;
+}
+.Footer-top-2 button{
+
+    border-radius: 16px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #7EB693;;
+}
+.Footer-top-2 button:hover{
+    background-color: #98e6b7;
+}
+.Footer-top-2 input{
+    width: 349px;
+    height: 60px;
+    color: #ABABAB;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border: none;
+    padding: 27px 23px;
+    outline: none;
+}
+.Footer-top-2 button{
+    padding: 15px 40px 15px 37px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 118px 52px 135px 52px;
+}
+.footer-1{
+    display: flex;
+    gap: 50px;
+
+}
+.footer-1 h4{
+    font-weight: 700;
+    font-size: 18px;
+    color: #525C60;
+
+}
+.footer-1-in{
+    text-align: end;
+}
+.footer-2{
+    text-align: center;
+ }
+ .footer-3{
+    display: flex;
+    gap:  50px;
+ }
+footer p{
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+}
+footer h2{
+    font-weight: 700;
+    color: #274C5B;
+    font-size: 30px;
+    padding-bottom: 32px;
+}
+.footer-2 p{
+    text-align: center;
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    width: 543px;
+    margin-top: 23px;
+}
+.logotip-social{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.log-in{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background-color: #EFF6F1;
+    border-radius: 100%;
+}
+.footer-Line{
+    border: 1px solid #D4D4D4;
+    height: 330px;
+    width: 1px;
+    
+    
+}

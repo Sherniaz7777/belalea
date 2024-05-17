@@ -1,0 +1,39 @@
+.offer{
+    padding-top: 179px;
+    
+}
+.offer h1{
+    text-align: center;
+    font-size: 50px;
+    color: #274C5B;
+    font-weight: 800;
+}
+.offer h2{
+    text-align: center;
+
+    color: #7EB693;
+    font-size: 48px;
+    font-weight: 500;
+}
+.offerBtn{
+    display: flex;
+    justify-content: center;
+}
+.offer button{
+    margin-top: 46px;
+    padding: 28px 39px 28px 39px;
+    border-radius: 16px;
+    background-color: #274C5B;
+    border: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+  }
+  .offer button:hover{
+    box-shadow: 0  16px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  
+  }

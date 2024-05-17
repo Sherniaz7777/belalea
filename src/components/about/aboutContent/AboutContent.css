@@ -1,0 +1,64 @@
+.AboutContent-all{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+#ab{
+    margin-left: -180px;
+}
+.AboutContent-text-1 h2{
+    font-size: 48px;
+    font-weight: 500;
+    color: #7EB693;
+    /* border: 0.5px solid #7EB693 */
+}
+.AboutContent-text-1 h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #274C5B;
+}
+.AboutContent-text-1 p{
+    margin-top: 15px;
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+}
+.AboutContent-Points{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 48px;
+    /* gap: 30px; */
+
+}
+.AboutContent-Points h4{
+    color: #274C5B;
+    font-size: 20px;
+    font-weight: 500;
+}
+.AboutContent-Points-1{
+    display: flex;
+    align-items: center;
+    gap: 13.58px;
+
+}
+.AboutContent-Points-2{
+    display: flex;
+    align-items: center;
+    gap: 13.58px;
+    /* justify-content: space-between; */
+}
+.AboutContent-text-1 button{
+    padding: 28px 39px 29px 39px;
+    border-radius: 16px;
+    border: none;
+    background: #274C5B;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-top: 58px;
+
+}
